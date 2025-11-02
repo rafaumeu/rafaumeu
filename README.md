@@ -139,7 +139,7 @@ I have selected projects that best demonstrate my proficiency across the full de
 ## 🎓 Education & Training
 
 This section highlights my core competencies and specialized training.
-
+<div align="center">
 <table>
   <tr>
     <td align="center" width="33%">
@@ -195,6 +195,7 @@ This section highlights my core competencies and specialized training.
     </td>
   </tr>
 </table>
+</div>
 
 ---
 

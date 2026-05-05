@@ -4,9 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=180&section=header&text=Rafael%20Zendron&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Clean%20Architecture%20%C2%B7%20AI%2FML&descSize=18&descAlignY=55&descColor=ffffffcc" />
 
 <!-- Typing SVG -->
+<p>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFCA28&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+production-grade+portfolio+pieces;DDD+%26+Clean+Architecture+evangelist;React+%2B+Node.js+%2B+LLMs;Every+repo+has+CI%2C+branch+protection+%26+signed+commits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFCA28&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=140&lines=Building+production-grade+portfolio+pieces;DDD+%26+Clean+Architecture+evangelist;React+%2B+Node.js+%2B+LLMs;Every+repo+has+CI%2C+branch+protection+%26+signed+commits" alt="Typing SVG" />
 </a>
+</p>
 
 <!-- Social badges -->
 <br/>

@@ -209,5 +209,11 @@ Domain layer reference — **DDD + Clean Architecture** with functional error ha
 ---
 
 <div align="center">
+
+**Rafael Zendron** · [Portfolio](https://portfoliodev-blush-pi.vercel.app) · [Fiverr](https://br.fiverr.com/rafaelzendron) · [LinkedIn](https://www.linkedin.com/in/rafael-dias-zendron-528290132/)
+
+</div>
+
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=100&section=footer" />
 </div>

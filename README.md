@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=180&section=header&text=Rafael%20Zendron&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Clean%20Architecture%20%C2%B7%20AI%2FML&descSize=18&descAlignY=55&descColor=ffffffcc" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=180&section=header&text=Rafael%20Zendron&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Clean%20Architecture%20%C2%B7%20AI%2FML&descSize=18&descAlignY=55&descColor=ffffffcc" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+production-grade+portfolio+pieces;DDD+%26+Clean+Architecture+evangelist;React+%2B+Node.js+%2B+LLMs;Every+repo+has+CI%2C+branch+protection+%26+signed+commits" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=FFCA28&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Building+production-grade+portfolio+pieces;DDD+%26+Clean+Architecture+evangelist;React+%2B+Node.js+%2B+LLMs;Every+repo+has+CI%2C+branch+protection+%26+signed+commits" alt="Typing SVG" />
 </a>
 
 <!-- Social badges -->
@@ -13,7 +13,7 @@
 <a href="https://github.com/rafaumeu"><img src="https://img.shields.io/badge/GitHub-rafaumeu-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/rafaelzendron/"><img src="https://img.shields.io/badge/LinkedIn-rafaelzendron-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/zendron22"><img src="https://img.shields.io/badge/X-@zendron22-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://portfoliordz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-FF0080?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://portfoliordz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Live-FFCA28?style=for-the-badge&logo=netlify&logoColor=white" /></a>
 <a href="https://br.fiverr.com/rafaelzendron"><img src="https://img.shields.io/badge/Fiverr-Gigs-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 
 </div>
@@ -177,7 +177,7 @@ Domain layer reference — **DDD + Clean Architecture** with functional error ha
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafaumeu&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rafaumeu&theme=monokai&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" alt="Trophies" />
   </a>
 </p>
 
@@ -207,5 +207,5 @@ Domain layer reference — **DDD + Clean Architecture** with functional error ha
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0080&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFCA28&height=100&section=footer" />
 </div>

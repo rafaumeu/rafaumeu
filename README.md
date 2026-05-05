@@ -173,6 +173,16 @@ Domain layer reference — **DDD + Clean Architecture** with functional error ha
 
 ---
 
+### 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rafaumeu&theme=onestar&no-bg=true&no-frame=true&column=7&margin-w=5" width="100%" alt="Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🐍 Contribution Graph
 
 <picture>
